@@ -1,10 +1,13 @@
-#from selenium import webdriver
-#from selenium.webdriver.common.keys import Keys
-#from selenium.webdriver.support.ui import WebDriverWait
-#from selenium.webdriver.common.action_chains import ActionChains
-#from time import sleep
-#from helper import search_jobs
-#from helper import read_listings
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.common.action_chains import ActionChains
+from time import sleep
+from helper import search_jobs
+from helper import read_listings
+from selenium.webdriver.support import expected_conditions as ExpectedConditions
+from selenium.webdriver.common.by import By
+
 #import random
 #import pickle 
 
@@ -103,8 +106,16 @@ def get_jobs(keyword, num_jobs, verbose):
             if len(jobs) >= num_jobs:
                 break
 
+            #driver.find_element_by_xpath("//path[@id='prefix__icon-close-1']").click()
+
             job_button.click() 
-            time.sleep(2)
+
+           # wait = WebDriverWait(driver, 15);
+
+            #wait.until(ExpectedConditions.visibility_of_element_located(job_button));
+           # wait3 = WebDriverWait(driver, 10);
+            #wait3.until(ExpectedConditions.invisibility_of_element_located(By.XPATH("ele_to_inv")));
+            time.sleep(20)
             collected_successfully = False
             
             while not collected_successfully:
@@ -233,4 +244,7 @@ def get_jobs(keyword, num_jobs, verbose):
 
     return pd.DataFrame(jobs)  #This line converts the dictionary object into a pandas DataFrame.
 
-df = get_jobs("data scientist", 5, True)
+df = get_jobs("data scientist", 15, True)
+df.to_csv('data_science_jobs.csv') 
+
+#print(df)
