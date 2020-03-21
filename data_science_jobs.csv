@@ -1,0 +1,548 @@
+,Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors
+0,"Staff Data Scientist, Business Analytics",-1,"We are looking for a great data scientist for our Quickbooks Online (QBO) business. Quickbooks is used by over 5MM SMBs globally to run their businesses and we are the team responsible for using our data to answer the most critical questions facing the QBO Product Managers and Marketers. Everything from understanding the trends in our subscriber growth to shaping our product strategy through A/B testing and more happens within our team and we need top data scientists to help the business deliver the best possible product to our SMB customers. We are growing rapidly and need great people to support our analytical efforts in both Product and Marketing.
+
+What does it take to thrive on our team? You need to be a top-notch problem solver and problem identifier. Its also a good idea to know the standard suite of analytical tools - SQL, R/Python, some sort of data visualization tool but were more interested in your ability to quickly learn new tools as the set of tools available is constantly evolving. Last, knowing that in most cases done is better than perfect is important - getting the current problem right to the sixth decimal place is almost always less impactful than getting to the next problem.
+
+If this role sounds interesting go check out the product (https://quickbooks.intuit.com/) and if you find this exciting, then we look forward to hearing from you!",4.3,"Intuit - Data
+4.3","San Francisco, CA","Mountain View, CA",5001 to 10000 employees,1983,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),"Square, PayPal, H&R Block"
+1,Data Scientist,-1,"The Opportunity
+
+Eversight is the recognized leader in AI-powered price and promotions. Eversight's proprietary cloud-based SaaS solution brings AI and continuous experimentation to consumer brands and retailers. Our software acts as a coach, enabling market leaders to transform pricing and promotion strategy for the $3.4 trillion spent in consumer goods retail using intelligent, real-time data and insights.
+
+Reporting directly to the Head of Data Science, you will be at the center of what determines Eversight's success as a company. You will analyze the data and develop production code using the newest Data Science and Machine Learning techniques to determine the optimal prices and promotions for major product manufacturers and retailers that sell these products.
+
+Responsibilities
+Research, implement and modify modern Data Science techniques. More specifically:
+Build Statistical and Machine Learning models that describe the impact of prices and promotions on shopper behavior, including behavioral pricing effects. You'll need to find middle ground between using flexible modern AI methods and proven classical methods.
+Develop Optimization and Experiment Design systems, which determine the best prices to set for each product in each store each week. Finding a good balance on the exploration-exploitation tradeoff will be crucial.
+Design and run pricing experiments across hundreds of stores and tens of thousands of products
+Create model validation methods to make sure that our models are accurate and to quantify the impact of our solutions on the clients' bottom line
+Work with Product Management to generate ideas and quickly turn them into efficient, well-tested, functioning code (we mostly use Python)
+Partner with the Engineering team to create highly scalable solutions
+Serve as Data Science expert both within Eversight and for our clients
+Lead custom analyses and connect them to actionable Business and Product insights
+Help prioritize new feature development by assessing potential impact
+Be a go-to resource for science-related questions about the product
+Behavioral Profile
+Analytical, framework thinker
+Comfortable in a fast-paced environment
+Highly collaborative
+Strong at translating Data Science concepts to non-technical audiences
+Business focused; measures work in its contributions to business outcomes and prioritizes effort against deliverables accordingly
+Skills and Experience
+M.S. in Operations Research, Machine Learning, Statistics, Mathematics, Engineering, Economics, Computer Science or relevant quantitative field
+2+ years of experience in Data Science or Machine Learning. Ph.D. experience accepted
+Elite ability in : Linear Algebra, Hypothesis Testing, Bayesian Methods, Regressions, Calculus, Maximum Likelihood Estimation
+Experience in Machine Learning methods: Neural Networks (Deep Learning, Embeddings, Sequence Modeling, CNN), Tree-based methods (GBDT, Random Forest), Regressions (Linear, GLM), Regularization Methods (L1/L2 penalties, Feature Selection, Dimensionality Reduction)
+Experience in A/B testing and Design of Experiments preferred
+Demand Modeling, Pricing, and Causal Inference experience preferred but optional
+Knowledge of common data structures and ability to write efficient code in Python
+Agile experience preferred
+Location
+
+Palo Alto, CA
+
+About the Company
+
+Eversight is the recognized leader in AI-powered pricing and promotions. Global brands and retailers rely on the Eversight platform to optimize pricing in response to market conditions and to deliver higher ROI on promotional spend. Eversight's Pricing Suite and Offer Innovation Suite solutions are driving strong margin and sales volume improvements for leading companies such as Coca-Cola, Frito-Lay, and Raley's. Founded in 2013, Eversight is headquartered in Palo Alto, California, with offices in Chicago and New York.",4.2,"Eversight
+4.2","Palo Alto, CA","Palo Alto, CA",51 to 200 employees,2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD),-1
+2,Data Scientist - Experimentation,-1,"Getty is embarking on its next wave of innovation in visual storytelling and how to put the perfect image or video in our customer’s hands, be it for a society-changing headline or a brand’s next big campaign—truly moving the world with images.
+
+We are looking for a talented and creative Data Scientist to help optimize Getty Images search experiences. This is a high-impact position where you will guide product strategy through experimentation (ex: A/B, multi-armed bandit, etc.). Your passion for experimentation, applied statistics, and data-informed decisions will impact over 50 million unique visitors from almost every country in the world, with a direct tie to Getty Images' revenue.
+
+You will be responsible for developing new experimentation methods, designing tests, analyzing results, and understanding our customer needs to improve our experimentation best practices to accelerate our rate of learning. In partnering with product, other data scientists, and engineers, you will help define success and our testing strategy.
+
+What you’ll be doing:
+
+· Design and execute our online experiments (ex: A/B tests, multi-armed bandit, etc.) that help us improve and fine tune our data focused features, algorithms/models, and products (ex: Search)
+
+· Work with product managers, engineers, other data scientists, and partner teams to frame experimentation problems, both statistically and within the business context
+
+· Work with engineering teams to improve data collection procedures to ensure integrity of the data
+
+· Collaborate with engineering teams to improve the experimentation pipeline and platform.
+
+· Proactively perform data exploration on user behavior to discover future testing opportunities
+
+· Present metric development, testing methodologies, and experimentation results to technical and non-technical stakeholders, clearly and concisely
+
+We’d love to hear from you if:
+
+· Extensive knowledge in statistical methods and data mining
+
+· Excellent application skills in experimentation methodologies (A/B, multi-armed bandit) and causal inferences
+
+· Experience with common data science toolkits, such as R/Python and libraries like pandas, stats models, scikit-learn, tidyverse (dplyr, ggplot2, etc.)
+
+· Proficiency in using query languages such as SQL and Hive.
+
+· Experience with Big Data systems and distributed computing, such as Hadoop and Spark
+
+· Strong product sense
+
+· A Ph.D. or MS in Statistics, Data Science, Mathematics, Economics, Sociology, Natural Sciences or any other equivalent quantitative field is preferred. If you are self-taught and believe you are a good fit for this role, or have significant work experience, we would love to hear from you as well.
+
+Who We Are:
+
+Getty Images is the most trusted and esteemed source of visual content in the world, with over 200 million assets available through its industry-leading sites www.gettyimages.com and www.istock.com. The Getty Images website serves creative, business and media customers in almost 200 countries and is the first place people turn to discover, purchase and share powerful content from the world's best photographers and videographers.
+
+Getty Images works with over 200,000 contributors and hundreds of image partners to provide comprehensive coverage of more than 130,000 news, sport and entertainment events, and impactful creative imagery to communicate any commercial concept and the world's deepest digital archive of historic photography.
+
+Getty Images is the starting point for our customers imagery search. Customers are confident that they are going directly to the best source of content, and that Getty's search engine will surface only the most relevant content to them and have the tools they need to refine and explore creatively.
+
+Our customers will be able to communicate effortlessly with Getty Images, in their quest to find the right imagery. Using text, voice, or visual channels, they will have the ability to describe their content needs creatively and thoroughly. Getty Images' search will eliminate the barrier that exists between a creative art director and a technical researcher.
+
+Getty Images is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. Getty Images believes that diversity is critical to our success in moving the world with images and is committed to creating an inclusive, mutually respectful environment which celebrates diversity. We seek to hire on the basis of merit, competence, performance, and business needs.",3.1,"Getty Images
+3.1","San Francisco, CA","Seattle, WA",1001 to 5000 employees,1995,Company - Private,Photography,"Arts, Entertainment & Recreation",Unknown / Non-Applicable,"Adobe, Shutterstock"
+3,Customer Data Scientist,-1,"Company Overview
+
+H2O.ai is the open source leader in AI with a mission to democratize AI for everyone. H2O.ai is transforming the use of AI with software with its category-creating visionary open source machine learning platform, H2O. More than 18,000 companies use open-source H2O in mission-critical use cases for Finance, Insurance, Healthcare, Retail, Telco, Sales and Marketing. H2O Driverless AI uses ""AI to do AI"" in order to provide an easier, faster and cost-effective means of implementing data science. H2O.ai partners with leading technology companies such as NVIDIA, IBM, AWS, Intel, Microsoft Azure and Google Cloud Platform and is proud of its growing customer base which includes Capital One, Progressive Insurance, Comcast, Walgreens and MarketAxess. For more information and to learn more about how H2O.ai is driving an AI Transformation, visit www.h2o.ai.
+
+Job Summary:
+Can you code proficiently in at least one language used by data scientists and/or data engineers, and does it excite you to learn more?
+Are you skilled at predictive modeling?
+Do you view communication skills just as important as technical ones?
+Can you listen to the needs of your peers and customers and adapt where need be?
+Do you have a competitive drive to be the best you can be?
+Can you finish what you start?
+Can you own assignments given to you?
+If the answer is ""yes"" to these questions, you potentially could be an excellent fit to join the team of customer engineering makers at H2O.ai. We deliver world-class solution experiences for our customers and drive revenue for our organization. Some of the technical projects you will work on include: training advanced machine learning models at scale in distributed environments, influencing next generation data science tools and data products, and pioneering ideas and products in new areas, such as machine learning interpretability, automatic machine learning, model management, deployment pipelines, and GPU computing.
+
+Responsibilities and Duties:
+
+As a Customer Data Scientist, you will be part of Customer Success team working closely with sales directors to:
+Problem solve and assess technical problems, determine solutions, and work with internal engineering and customer teams to resolve them.
+Demonstrate ML solutions with engaging storytelling and technical accuracy.
+Architect, Design, and Deliver end to end machine learning workflows and systems from data ingestion to model deployment.
+Provide best practices and guidance to customers on machine learning workflows and systems from data ingestion to model deployment.
+Own account-related technical activities and relationships.
+Translate business use cases and requirements into technical ones.
+Communicate effectively to a diverse audience, including: engineers, business people, and executives. Audiences will be large and small, and interactions will be in-person and online.
+Drive field feedback back into product development and be very hands-on for all technical activities.
+Qualifications and Skills
+Bachelor's degree in engineering, computer science, mathematics or a related field. Graduate degree is a plus.
+2+ years experience with performing hands on Data Science and Machine Learning
+Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks.
+Visualization skills using R, Python or other languages and frameworks.
+Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications.
+2+ years experience using statistical computer languages (R, Python, etc.) to manipulate data and draw insights from large data sets.
+2+ year working with data in Hadoop and /or Spark ecosystem
+Desirable: Maker mindset, coachable, and have an urge to learn/master new technologies
+H2O.ai Perks!
+Flexible work hours and time off.
+H2O.ai is an equal opportunity employer. We welcome and encourage diversity in the workplace regardless of race, gender, sexual orientation, gender identity, disability or veteran status.
+
+Powered by JazzHR",4.3,"h2o.ai
+4.3","Mountain View, CA","Mountain View, CA",201 to 500 employees,2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
+4,Data Scientist,-1,"Our Mission
+We’re here to create a safer, happier and more mindful future for all with the help of data science, engineering, design, and mobile technology. We're starting by reinventing insurance, by rethinking the technologies that enable it, but our true goal is to build a platform that rewards people for driving well — creating safer roads with fewer accidents in the process.
+
+Backed by impressive funding, we're poised to re-engineer a trillion-dollar category, and that’s just the beginning. We’re using rich customer insights, advanced technology and data science to build our cloud-native InsurTech solution, and other things we haven’t even dreamt up yet. We're out to change behavior and promote mindful living at a societal level. But the key to us being successful in our mission isn’t just about nailing the technology—it’s about hiring the talented people who can help us make a quantifiable impact in the world. We’re growing our world-class team. And that’s where you come in.
+
+The data science team builds the data-driven features of the company.
+Requirements for all data scientists
+Demonstrable expertise building and supporting machine learning models deployed to production
+Expert in Python and core libraries used by data scientists (Numpy, Scipy, Pandas, Scikit-learn, Matplotlib/Seaborn, etc.)
+Experience using Jupyter notebooks
+Experience working with large or fast moving data sets
+Qualified for one of the the specializations below
+Specialization: Machine Learning
+Scikit-learn expert: This means you have rolled your own transformers and estimators, which you chained together in a pipeline and found optimal hyperparameters via a randomized grid search (or some other method).
+Pandas and Numpy expert: You have used pandas enough to run into its rough parts. Very likely you read Wes’ book. You are fluent with Numpy and array oriented programming in general.
+Modern techniques: You are deeply familiar with different validation pitfalls, understand how to effectively ensemble several models, and have experimented with different hyperparameter optimization methods.
+Modern data: You have built models using unstructured data such as text or images. You have built time series models using econometric approaches as well as machine learning approaches. Deep algorithmic understanding: You know all the nitty-gritty details of your favorite machine learning algorithms.
+Specialization: Marketing
+Statistical rigor: You should have a solid foundation of the statistics behind standard statistical design methods such as A/B testing and multivariate testing. For example, you should know how to deal with clustering and should be able to determine the standard errors of different statistics through simulation.
+Multi-armed bandit models: You know how to implement the technique and how to write a good cost function.
+Modern techniques: You can build a model that powers an app that serves a unique arrangement of diverse components to each user such that the specific components served were chosen to maximize the specific user’s probability of selecting a call to action (i.e. using machine learning to identify complex heterogenous treatment effects).
+War stories: You must be able to talk about times you ran experiments in a complex environment and what you learned from the effort
+Specific experience in marketing optimization is a plus.
+Specialization: Insurance
+Industry experience: You have solid P&C experience and have had a significant role in building either pricing or underwriting models.
+Insurance algorithms: Regulators love GLMs. You must be an expert in GLMs.
+Modern tools: Maybe you used SAS in the past, but know you should be comfortable building models with Python.
+More details
+Salary: We invest in first-rate people and pay top-of-market salaries for most positions, factoring in experience and talent. We do not offer equity.
+Benefits: Medical, dental, vision, 401(k), wellness reimbursement, four weeks of vacation + six weeks of parental leave, and great work-life balance. Plus on-site shower and bike stalls, and panoramic views of San Francisco.
+Location near Montgomery BART station in the financial district.
+Location: San Francisco, CA
+To apply for this role, you must complete a simple tech challenge based on the specialization you choose. Each specialization has a unique coding exercise.
+
+Machine Learning simple tech challenge
+Marketing simple tech challenge
+Insurance simple tech challenge
+
+All are welcome at Blue Owl. We are an equal opportunity and affirmative action employer who values diversity and inclusion and looks for applicants who understand, embrace and thrive in a multicultural world. We do not discriminate on the basis of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.",4.5,"Blue Owl
+4.5","San Francisco, CA","San Francisco, CA",51 to 200 employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1
+5,Data Scientist,-1,"Title: Software Engineer, Data Science
+
+Design, develop and implement ML/Analytics features for high-performance cloud monitoring, analytics and optimization software.
+
+Description:
+
+AppFormix team in Juniper is seeking a Data Science engineer to work on the developing sophisticated analytics for our cloud monitoring and optimization platform.
+
+You will be responsible for solving complex problems and designing solutions which will provide the user meaningful insights into health and usage patterns of their cloud infrastructure.
+
+Responsibilities:
+
+• Design and develop ML/analytics related features by leveraging supervised/unsupervised machine learning algorithms, data science knowledge.
+
+• Develop tools for anomaly detection, forecast models, capacity planning, metric correlation models which should work at scale for large volumes of time- series data.
+
+• Work with the team to develop APIs, schemas.
+
+• Contribute to the test and automation infrastructure by adding more unit tests, system tests to ensure high code quality and reliability.
+
+• Participate in design discussions and code reviews.
+
+Minimum Qualifications:
+
+• Bachelor’s or Master's degree or foreign equivalent in Computer Engineering or Computer Science.
+
+• Proficiency in machine learning, data science. Ability to leverage the knowledge to visualize, design and build machine learning models and heuristics to provide useful insights on cloud platforms resource usage patterns.
+
+• Proficiency in Python or any other Object Oriented Languages
+
+• Deep Learning/Machine Learning Frameworks: (Scikit-Learn, TensorFlow, Keras, PySpark ML)
+
+• Ability to clearly thought out APIs and write clean, efficient code.
+
+• Ability to handle multiple tasks, prioritize and meet deadlines in a fast-paced work environment.
+
+• Excellent verbal and written communication skills
+
+Preferred Qualifications:
+
+• 2+ years of experience in developing ML/Analytics
+
+• Experience in building highly scalable distributed systems
+
+• Working knowledge of implementing web services backend
+
+• Experience with REST APIs
+
+• Experience with databases (Mongo, Redis, SQL)
+
+Juniper Networks is enrolled in E-Verify® and will be participating in E-Verify in addition to our Form I-9 process. www.dhs.gov/E-Verify
+Juniper Networks is an Equal Opportunity/Affirmative Action Employer.",3.8,"Juniper Networks
+3.8","Sunnyvale, CA","Sunnyvale, CA",5001 to 10000 employees,1996,Company - Public,Telecommunications Services,Telecommunications,$2 to $5 billion (USD),-1
+6,Senior Data Scientist,-1,"Our Mission
+
+We make it fly! Join us and build the future of aviation, changing the way people and goods move around the world.
+
+Soon, aircraft will deliver packages to your doorstep, air taxis will fly you around cities, and emergency medicine will be flown more quickly to accidents.
+
+We're building the digital traffic management to make it all possible.We’re a diverse crew of aviation enthusiasts, Bay Area startup veterans, and professionals from multiple industries who’ve come together to build really cool things.
+
+Want to help us usher in the era of flying cars?
+Going beyond developing software, hardware, and aircraft, we aim to build a unifying vision and suite of products that enable the next generation of aviation. As a fast-moving, iterative team and a leading innovator in aerospace, our goal is to leave a lasting impact by updating how objects, information, and people move in a new, exciting world.
+
+Data Scientist
+
+We’re using large datasets of real UAS flights to create and validate risk models that our services will use to ensure safe operations. You’ll work with our partners to onboard data to an architecture that you specify, including designing and implementing ETL processes, auditing processes and analytics frameworks.
+Set up our database infrastructure and data pipeline, managing all aspects from ingest and ETL to advanced analytics.
+Determine the best algorithms to apply to the data, including machine learning tools as appropriate.
+Working with our statisticians, create computational models for vehicle behavior and performance.
+In collaboration with the Safety & Risk Architect, you’ll identify safety-related trends and determine the best way to represent them in the Open Risk Framework and underlying risk models.
+Collaborate with development engineers to incorporate your models/pipelines/architectures into deployed products.
+Qualifications:
+BS, MS or PhD in Statistics, Computer Science, Data Science or a related field.
+Extensive experience working with various data sets, knowledge of state of the art in machine learning, and understanding of the power and shortcomings of data
+Experience using TensorFlow or other large scale machine learning frameworks in production
+Extensive experience building, running and maintaining database infrastructure
+Experience working with Hadoop, Spark and other tools for distributed computing is essential.
+Additional Considerations:
+Experience implementing best practices in data security, integrity, workflow traceability, and auditing
+Experience with optimization and statistical data analysis tools
+Experience with one or more programming languages (Python, R, Julia)
+Your experience has been in the context of an early stage effort. This could be at a startup or a new project in a more established company.
+Comfortable working as part of a cross-functional team with shifting priorities as needs change and new opportunities arise.
+Experience with software engineering concepts in a small, tightly coupled team--and how these evolve with growth of the team
+Deadlines are your friend, and you’re a natural communicator who can articulate bottlenecks and challenges.
+Outstanding technical leadership and communication skills
+Innate curiosity leads you to keep up with the latest research, news and developments in your field.
+If you’ve published journal articles, conference papers or technical reports, that’s a plus. We expect you to share the insights, best practices and paths forward that you develop with the rest of the world, including at relevant industry conferences.
+We're proud to be an equal opportunity workplace celebrating unique talents, backgrounds, and differences. We’re dedicated to building a healthy and sustainable culture, while solving big problems that really matter.
+
+We take care of our people, offer work life balance, and offer neat perks like flight training!",3.6,"My Job Tank
+3.6","San Francisco, CA","New York, NY",51 to 200 employees,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1
+7,Data Scientist,-1,"Cape Analytics provides instant property intelligence for buildings across the United States. Cape Analytics enables insurers and other property stakeholders to access valuable property attributes at time of underwriting, with the accuracy and detail that traditionally required an on-site inspection, but with the speed and coverage of property record pre-fill. Founded in 2014, Cape Analytics is backed by leading venture firms and innovative insurers and is comprised of computer vision, data science, and risk analysis experts.
+
+About the role:
+We are looking for a Data Scientist with a scientific approach who has strong expertise in data analysis, statistics, programming, and machine learning to join our Data Science team. You will collaborate with Data Scientists, Computer Vision/Machine Learning Engineers, Data Engineers, and members across Software Engineering, Product, and Sales teams to build robust, scalable machine learning models for identification and annotation of the built world. Additionally, you will develop expertise in ground truth generation, model performance analysis, iterative model development, and unsupervised mapping of the feature space to bring scientific rigor, scalability, and robust performance to our core product offerings.
+As a data scientist, you will:
+Develop scientifically rigorous, creative methodologies to continuously improve our machine learning models.
+Incorporate machine learning and data-driven decisioning into the core of our infrastructure.
+Contribute to design and automation of model training, model post-processing and evaluation pipelines at scale.
+Leverage the extensive data generated by Cape in addition to data from external sources to generate structured knowledge about our feature space.
+Present your results internally and externally; Defend your methodology and incorporate feedback from internal teams as well as customers.
+Improve model performance by identifying failure modes using supervised and unsupervised learning techniques.
+Ideate and implement data-driven methodologies to help scale model performance across geographical, climatic, and temporal dimensions.
+Implement automated solutions for ensuring data quality and delivery.
+Explore and mine new data sources that will help optimize and validate our models.
+Link model capabilities to market needs by customizing models, designing and running validation studies.
+Contribute to peer mentorship, knowledge bases, and skills transfer.
+Skills / Requirements:
+Graduate degree and 1-3 years of hands-on industry experience or a PhD.
+Solid knowledge of statistical techniques, including hypothesis testing, statistical sampling, significance testing, statistical inference, maximum likelihood estimation, and experimental design, among others.
+Mastery of, supervised and unsupervised algorithms and their implementations, machine learning concepts including regularization, learning curves, optimizing hyperparameters, cross-validation, among others.
+Advanced knowledge and significant programming experience in Python programming or other scripting language including relevant libraries like numpy, pandas, SciPy, matplotlib.
+Familiarity with the Linux environment including shell scripting, Git and tools for reproducibility (e.g. virtual environments, Docker ).
+Demonstrated expertise in building data tools for ETL and data analysis.
+Experience in building meaningful data visualizations using at least one scripting-based visualization tool such as matplotlib, d3.js or bokeh
+Nice to haves:
+Experience designing data schemas and extracting data from SQL and NoSQL databases.
+Experience with GIS systems.
+Experience with modern data technologies, e.g. Spark, Tensorflow, Jupyter Notebook, Docker.
+Experience with cloud computing on AWS or GCP.
+We believe:
+
+*Talent is critical, but best when tempered with humility
+*Self-motivation leads to the best outcomes
+*Open, direct communication is a sign of respect
+*Teamwork drives success
+*Having fun together is an important part of the job
+
+***Cape Analytics is an E-verify participant.***",5.0,"Cape Analytics
+5.0","Mountain View, CA","Mountain View, CA",51 to 200 employees,2015,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
+8,Data Scientist - Social and Search Intelligence,-1,"Beam is disrupting a $7.5 billion compliance software market. Beam's scalable technologies incorporate new data sources for our bank and fintech partners, helping make the financial system safer while maximizing the value and utility of critical compliance resources. As an engineer at Beam, you will be building large scale, comprehensive, elegant, and easy to operate compliance solution for fintechs, large banks, small banks, credit unions, and broker-dealers.
+
+Beam is a rapidly growing venture-backed startup led by industry veterans. With a strong product vision and an experienced development team, our product has been well-received by customers and we're excited to grow. As a member of the engineering team at Beam you will be a critical asset responsible for many tasks and systems that span our entire product and internal infrastructure. As part of the R&D team you will be part of shaping the technological landscape, build new products, add and improve features, and scale and maintain the systems that keep our customers happy. You will also build internal tools and systems to help streamline and optimize internal initiatives.
+
+We are looking for a seasoned Data Scientist with experience building and automating web crawling and data ingestion pipelines. You will be responsible for streamlining, automating and integrating the collection and delivery of structured and unstructured data that will drive Beam's internal intelligence suite to produce sophisticated features for machine learning and data analysis. You feel comfortable switching hats between software development, gathering business requirements, and devops tasks. You take pride in owning and maintaining the technical work environment. You enjoy learning new technologies and sharing your code with others. Lastly, you have been looking for an opportunity where you can use your passion and skills for a greater good against financial crime.
+
+Our main office is located in the Jackson Square district of San Francisco and we offer a generous full range of benefits.
+
+Responsibilities
+Collaborate with the R&D team to architect and build a distributed cloud-based SaaS solution for transaction monitoring.
+Champion Beam's data intelligence efforts to scrape, ingest, and process external data sources. Your work will be consumed by Beam's internal intelligence suite to produce sophisticated features and by our customers' operational teams in form of tabular, geo-mapped, and image-like data.
+Actively build and deploy cutting-edge search intelligence solutions.
+Permanently identify efficiency opportunities to scale our product and the team behind it.
+Explore, evaluate and integrate new data pipelines.
+Skills and Experience
+3+ years of applied data science experience
+BS in Computer Science or a related field. Master's degree a plus.
+Proficient in machine learning and ETL frameworks using Python / Spark
+Hands-on experience in automation and web crawling/web scraping in Python, JavaScript, or similar language.
+Familiarity with Linux/UNIX, HTTP, HTML, and Javascript.
+Strong understanding of building data pipelines and data lakes.
+Expert in working with large scale data processing using Hadoop stack.
+Solid understanding of NoSQL database modeling and design.
+Experience with cloud infrastructures such as AWS and related big data technologies (Red Shift, DynamoDB, EMR, etc.)
+Hands on experience working with social media data sources.
+Strive in a fast-paced environment.
+Business driven and result-oriented individual.
+Obsessive in delivering quality software.
+Passionate about open source.
+Relentless in keeping solutions secure.
+Effective communication & collaboration skills.
+Extra Credit
+Knowledge of software engineering best practices across the development lifecycle, including agile methodologies, coding standards, code reviews, source management, build processes, testing, and operations.
+Experience with containerization related management stacks like Docker, Swarm, Kubernetes.
+Worked in a financial services context related to risk management.
+Open source contributor.
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, or any other protected characteristic. Pursuant to the San Francisco Fair Chance Ordinance for Hiring, Beam will consider for employment qualified applicants with arrest and conviction records.",5.0,"Beam
+5.0","San Francisco, CA","San Francisco, CA",1 to 50 employees,2017,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
+9,Data Scientist (Multiple Levels),-1,"NerdWallet is seeking results-focused Data Scientists to join our team and drive efforts to develop machine learning models that improve product experience and personalization across our businesses. Data Scientists partner with product and marketing teams to understand and solve the most impactful problems and collaborate with other teams in the organization (Platform Engineering, Data Analytics, and Data Engineering) to understand and contribute to NerdWallet's machine learning and data platforms. The ideal candidates will be passionate about the personal finance space and NerdWallet's mission to provide clarity for all of life's financial decisions.
+
+Where you can make an impact:
+Deliver on high visibility data science projects that improve on the relevance of NerdWallet's financial advice to our customers
+Collaborate cross-functionally with other data teams at NerdWallet to define best practices and leverage shared platforms, insights, and innovations
+Own data and ML pipelines that empower product teams and increase the impact of data science
+You are:
+
+
+Creative problem solver: Passionate about answering questions with data and always learning
+Structured thinker: Understand how to break down complex problems into the key components where data science and machine learning can be used to improve existing solutions
+Highly productive: Able to execute efficiently on multiple projects. These roles are intended for people who are passionate about data and developing solutions to improve our products
+Team Player: Excited to mentor junior team members and collaborate to develop cutting edge solutions that can be leveraged by others at NerdWallet
+Consumer first and positive attitude: Motivated to work hard in a fast-paced environment – business decisions here can connect and impact millions of users
+Your experience:
+
+
+Advanced degree (MS or PhD) in a quantitative field
+3-6+ (depending on level) years experience developing production ML models to solve problems such as product/content recommendations and user intent, engagement, or segmentation (preferably at a consumer technology company)
+Proficient to expert level understanding of machine learning, feature engineering, and model evaluation techniques
+Demonstrable programming skills (Python preferred)
+Experience building production solutions with ML frameworks (e.g., TensorFlow, Spark MLlib, SciKit Learn, etc.) for real-time inferences
+Hands-on experience in data technologies (SQL, AWS, Redshift, Snowflake, etc.)
+Ability to work with data and machine learning engineers to implement ML pipelines
+Experience communicating and collaborating with leaders across the organization, which include stakeholders in engineering, product, finance, and marketing organizations
+What we offer:
+Competitive compensation package
+401(k) with company match
+100% paid premiums for medical, dental and vision for employee and their dependents
+Paid maternity and paternity leave
+Commuter, gym and cell phone stipend
+$500 enrichment stipend towards learning and development for your role
+Catered lunches daily, free dinner, and kitchens stocked full of snacks
+Onsite coffee bar with baristas
+Company happy hours, social events and outings
+Generous, flexible vacation
+NerdWallet is committed to pursuing and hiring a diverse workforce and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of any characteristic protected by applicable federal, state or local law.
+
+#LI-DS1",3.4,"NerdWallet
+3.4","San Francisco, CA","San Francisco, CA",201 to 500 employees,2009,Company - Private,Financial Analytics & Research,Finance,Unknown / Non-Applicable,-1
+10,Data Scientist,-1,"About Netskope
+
+Today, there's more data and users outside the enterprise than inside, causing the network perimeter as we know it to dissolve. We realized a new perimeter was needed, one that is built in the cloud and follows and protects data wherever it goes, so we started Netskope to redefine Cloud, Network and Data Security.
+
+Since 2012, we have built the market-leading cloud security company and an award-winning culture powered by hundreds of employees spread across offices in Santa Clara, San Francisco, Seattle, Bangalore, London, Melbourne, and Tokyo. Our core values are openness, honesty, and transparency, and we purposely developed our open desk layouts and large meeting spaces to support and promote partnerships, collaboration, and teamwork. From catered lunches and office celebrations to employee recognition events and social professional groups such as the Awesome Women of Netskope (AWON), we strive to keep work fun, supportive and interactive. Visit us at netskope.com/company/careers and follow us on Twitter @Netskope and Facebook.
+
+Data Scientist
+
+
+Within Netskope Engineering, the Security Services organization is responsible for building core security products and features, such as Data Loss Prevention, Malware and Threat Prevention, Cloud Confidence Index, Breach and Anomaly Detection. We apply Artificial Intelligence and Machine Learning technologies across Netskope cloud security platform. We are looking for talented data scientists with security domain knowledge. A successful candidate has deep technical expertise in applying AI/ML technologies in security applications and/or adjacent domains, ideally has been through the entire lifecycle of an award winning security product, and must be passionate about cloud security. You will have the opportunity to work with a team of talented engineers, researchers and data scientists to solve the most challenging cloud security problems.
+
+Responsibilities:
+Identify strong AI/ML use cases in cloud security, data security and adjacent domains, leveraging Netskope's rich set of data sources;
+Define scalable data acquisition and labeling strategy for specific use cases;
+Work with data engineers to retrieve, clean and normalize data. Ensure scalable and continuous high-quality data stream;
+Work closely with threat research and development team in feature engineering. Make sure high-quality feature sets are chosen in a systematic way;
+Select ML models for defined use cases. Implement KPIs to ensure optimal algorithms and results;
+Conduct strict internal testing to ensure high efficacy, low false positive and false negative rate;
+Interpret results and communicate findings;
+Document use case, data acquisition, feature engineering, training, validation, deployment, future improvement opportunity and other important aspects;
+Work closely with development and QE team in productization;
+Be an evangelist of AI/ML within Netskope. Promote AI/ML wherever applicable, beyond security use cases;
+Collaborate with data analytics team to define new platform requirements and continuously improve our horizontally scalable data lake.
+Qualifications/Requirements:
+
+
+First of all, must have true startup spirit. Be willing to wear multiple hats and deliver end-to-end;
+Ability of thinking out-of-box and evaluating results based on customer value;
+5+ years of industry experience in applying AI/ML, preferably on well-known security products or services, such as malware detection, anomaly detection, security analytics and data security;
+Experience of applying AI/ML in more than one domains highly desirable;
+Hands-on experience with relevant technology stacks such as CUDA, Python, R, Spark, Flink, Tensorflow;
+Hands-on experience using modern big data pipeline;
+Natural language process (NLP) and data mining experience highly desirable;
+Security research experience and strong security domain knowledge highly desirable;
+Energetic self-starter, with the desire to work in a dynamic fast-paced environment;
+Excellent verbal and written communication skills;
+Ability to influence without authority
+Education:
+
+
+PhD in Computer Science, Statistics, Electrical Engineering or equivalent technical degree.
+#LI-NW1",4.3,"Netskope
+4.3","San Francisco, CA","Santa Clara, CA",501 to 1000 employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,"Skyhigh Networks, Zscaler, NortonLifeLock"
+11,Senior Data Scientist,-1,"LendUp is a financial technology startup based in Oakland focused on transforming the subprime credit and lending space. We’re a Y-Combinator alum (YC W12) backed by prominent investors such as Google Ventures, Andreessen Horowitz, Kleiner Perkins, and Kapor Capital. Our product is being used in 7 states and we’ve seen great press coverage in the Wall Street Journal, Financial Times, CNN, NBC, TechCrunch, Venturebeat, Inc, Wired, Bloomberg, Fortune, and Dow Jones, amongst others.
+
+What we’re doing:
+
+At LendUp we are on a mission to provide anyone with a pathway to better financial health. Millions of people don’t have access to quality credit. Their options are often limited and unfair, and it’s easy to become trapped in a debt cycle. This is the first problem LendUp set out to solve, by applying our combined expertise in software, data science, credit, and education, to our shared passion for financial health and dignity.
+
+Our core product, the LendUp Ladder, is an alternative to payday loans that transforms a trap into an opportunity to borrow at lower rates and build credit. And every day, we see our customers succeed. We’re building additional financial products that will help us further accelerate our mission of providing anyone with a path to better financial health.
+
+About the role:
+
+As a senior data scientist, you help drive smart quantitative decisions across every part of the business. You provide expertise in using data, identify insights and patterns, and create compelling reports. You understand our business operations in detail and mentor other teams so they use data more effectively. You propose strategy for data innovation and help us find a way to help the tens of millions of Americans banks won’t lend to.
+
+You will:
+Dive into quantitative questions in every part of the business, at every level of the organization
+Create queries, dashboards, and analyses to obtain insight about the health and operation of the business, and help drive decisions
+Advise and mentor other teams and individuals on how to implement business logic in queries and make quantitative decisions based on deep understanding of the business
+You have:
+Advanced knowledge of SQL, database schema design, data warehousing, and query optimization
+Experience in manipulating, visualizing, and providing analysis of data using SQL as well as other tools like Python or R.
+A strong statistical background, and basic knowledge in machine learning and data science
+A good understanding of business requests, crystalizing them into crisp requirements, and translating them into actionable analysis.
+Strong communication and collaboration skills across multiple teams and stakeholders
+Curious, creative and persistent
+We have:
+
+LendUp has all the things you’d expect from a mission-driven company, like a competitive salary; early stage equity; 100% company paid medical, dental and vision insurance; generous vacation/sick leave policy; catered, free lunch; kitchens fully stocked with snacks; 401(k).
+
+But here’s what we really love about LendUp Life:
+We’re committed to a diverse and inclusive culture that spurs innovation and creates a meaningful and impactful work environment
+We have fun together at our bi-weekly happy hours, quarterly team building events, company-sponsored volunteerism, hackathons, and sports teams, including a few fantasy sports leagues
+One of our values is “different backgrounds, same mission.” We are passionate about diverse candidates and have slack channels dedicated to everything from philosophy to sports to hip hop
+LendUp is an Equal Opportunity Employer
+
+We extend equal employment opportunities to qualified applicants and employees on an equal basis regardless of an individual's age, race, color, sex, religion, national origin, disability, sexual orientation, gender identity or expression, pregnancy status, marital status, military or veteran status, genetic disposition, or any other reason protected by law.",3.4,"LendUp
+3.4","Oakland, CA","Oakland, CA",51 to 200 employees,2012,Company - Private,Lending,Finance,Unknown / Non-Applicable,-1
+12,"Data Scientist, Growth",-1,"Coursera was founded by two computer science professors at Stanford with a vision of providing life-transforming learning experiences to anyone, anywhere. It is the world’s largest online learning platform for higher education. 200 of the world’s top universities and industry educators partner with Coursera to offer courses, Specializations, and degrees that empower over 48 million learners around the world to achieve their career goals. Over 2,200 companies use the company’s enterprise platform Coursera for Business to transform their talent. Coursera is backed by leading venture capital firms such as Kleiner Perkins Caufield & Byers, New Enterprise Associates, GSV Capital, International Finance Corporation, Laureate Education Inc., and Learn Capital.
+
+At Coursera, our Data Science team is helping to build the future of education through data-driven decision making and data-powered products. We drive product and business strategy through measurement, experimentation, and causal inference. We define, develop, and launch the models and algorithms that power content discovery, personalized learning, and machine-assisted teaching and grading. We believe the next generation of teaching and learning should be personalized, accessible, and efficient. With our scale, data, technology, and talent, Coursera and its Data Science team are positioned to make that vision a reality.
+
+We’re looking for a talented, creative, and driven data scientist with a sharp eye for UX design, strong algorithmic and analytic skills, and an interest in expanding the reach and quality of online education. Our ideal candidate is an independent, analytically-minded individual with strong analysis and statistical modeling skills, who shares our passion for education.
+
+
+Your Responsibilities
+Modeling user behavior to identify and prioritize product and business opportunities to drive growth of degrees
+Building predictive models to identify and nurture potential degree learners
+Designing, testing, and implementing high leverage degree growth interventions
+Working cross-functionally with engineers, designers, and product managers on our core degree products
+Your Skills
+Background in applied math, computer science, statistics, or related technical field, and 2+ years of industry experience
+Strong skills in applied statistics, data visualization, and predictive modeling
+Strong product intuition and cross-functional communication skills
+Proficient with at least one scripting language (e.g. Python)
+Proficient with at least one statistical software package (e.g. R, NumPy/SciPy/Pandas)
+Proficient with relational databases and SQL
+Excellent communication and project management skills
+
+Coursera is an Equal Employment Opportunity Employer and considers all qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, age, marital status, national origin, protected veteran status, disability, or any other legally protected class.
+
+If you are an individual with a disability and require a reasonable accommodation to complete any part of the application process, please contact us at accommodations@coursera.org.
+
+Please review our CCPA Applicant Notice here.",3.9,"Coursera
+3.9","Mountain View, CA","Mountain View, CA",501 to 1000 employees,2012,Company - Private,Colleges & Universities,Education,Unknown / Non-Applicable,-1
+13,AppD Data Scientist Master's (Intern) United States,-1,"About Us
+
+AppDynamics is the Application Intelligence company. With AppDynamics, enterprises have real-time insights into application performance, user performance and business performance so they can move faster in an increasingly sophisticated, software-driven world. Our integrated suite of products is built on our innovative, enterprise-grade App iQ Platform that enables our customers to make faster decisions that enhance customer engagement and improve operational and business performance. AppDynamics is uniquely positioned to enable enterprises to accelerate their digital transformations by actively monitoring, analyzing, and optimizing complex application environments at scale which has led to proven success and trust with the Global 2000.
+
+About the Role:
+
+As part of Data Science team, the Intern will work on developing python scripts for data gathering and analysis. He/she will work under the supervision and receive mentorship from data scientists and/or data engineers.
+
+A successful candidate is expected to have background knowledge in machine learning and statistics, be skilled at python programming, and be comfortable working in a dynamic and fast-paced environment.
+
+Responsibilities:
+Develop Python for gathering, transforming, and analyze data
+Prototype data science algorithms supporting product feature development
+On demand data exploration to support various business cases
+Experience and Skills:
+B.S. or current enrollment in Computer Science, or related field
+Experience with Python and machine learning
+Good verbal/written communication and multitasking skills
+Ability to present complex technical information in a clear and concise manner
+Just a note
+
+Note to Recruiters and Placement Agencies: AppDynamics does not accept unsolicited agency resumes. Please do not forward unsolicited agency resumes to our website or to any AppDynamics employee. AppDynamics will not pay fees to any third party agency or firm and will not be responsible for any agency fees associated with unsolicited resumes. Unsolicited resumes received will be considered property of AppDynamics.
+
+AppDynamics is an equal opportunity employer and considers all qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age, protected veteran status, or any other unlawful factor. AppDynamics complies with all applicable laws, including those regarding consideration of qualified applicants with criminal histories (such as the San Francisco Fair Chance Ordinance). If your disability makes it difficult for you to use this site, please contact recruiting@appdynamics.com. AppDynamics participates in E-Verify.
+#appd_jobs",4.4,"AppDynamics
+4.4","San Francisco, CA","San Francisco, CA",1001 to 5000 employees,2008,Company - Public,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),-1
+14,Data Scientist / Biostatistician,-1,"PicnicHealth is a San Francisco-based, venture-backed health tech startup with the mission of empowering patients by giving them the ability to own, use, and share their medical history, to cure their disease. We give patients the first truly useful personal health record by collecting, abstracting, their medical history, and providing it back in a unified timeline. With our research collaborations, patients can contribute their anonymized medical data to create research registries -- which allow Academic and Life Science companies to better understand disease, and how it manifests in the real world.
+
+The Opportunity
+
+At PicnicHealth, biostatistics and data science are at the core of how we transform Real World Data (RWD) into insights for our research partners. We're seeking an experienced data scientist or biostatistician to deliver that insight on a daily basis to achieve both internal, and external research goals. Unlike clinical trial data, RWD is non-randomized, and has a unique set of challenges that you would be a key proponent in solving. As an early member of our Research team, you will have the flexibility and remit to work on all aspects of research product and scientific portfolio, bringing a lasting impact on the future of PicnicHealth.
+
+Our ideal team member will have biostatistical experience, with curiosity and ability to find creative solutions to meaningful clinical questions. You are an analytical thinker with experience working with RWD. You are excited by the prospect of rolling up your sleeves to tackle meaningful problems each and every day. You are a kind, passionate, and collaborative problem-solver who seeks and gives candid feedback. You are motivated to be amazing in your role and, ultimately, to improve patient care.
+
+As a Data Scientist / Biostatistician at PicnicHealth you will:
+Use PicnicHealth's large, multi-disease real-world dataset to answer some of the most critical clinical questions
+Become a subject matter expert on our data and its capabilities
+Transform real-world clinical data into actionable insights using machine learning, robust statistical methods, and compelling data visualizations in formats accessible to a wide range of end users
+Work with a cross-functional team to define and clarify analytic requirements, develop analysis plans, ensure data quality standards, and create publication-ready methods and results
+Generate ideas for analyses to shape future projects
+Collaborate with a team of clinicians, product managers, and software engineers to help develop, commercialize, and deliver analytics products
+Lead technical initiatives that further our understanding of RWD and methods to generate real world evidence
+Contribute to the growth and development of the PicnicHealth team by mentoring fellow team members and participating in recruitment efforts
+Develop and manage relationships with external partners (including life science companies, regulatory agencies, academic institutions, and health technology assessment bodies) to advance the integration of our analytic products through demonstrated value
+Publish scientific work in peer-reviewed journals
+You're a strong candidate if:
+You hold a Master's degree with 4 years of industry experience or PhD (or equivalent) in a quantitative discipline, such as biostatistics, epidemiology, applied statistics, health economics, or a related discipline
+You love working with data and have experience exploring it with a critical and thoughtful eye
+You are proficient in R/Python/SQL (or another programming language and are committed to becoming an expert in R/Python and SQL)
+You are an excellent communicator, both oral and written, and can effectively adapt your tone, content, and approach to diverse audiences
+You are self-motivated, flexible, proactive, and enjoy coming up with elegant and innovative solutions to challenging problems
+You know how to balance attention to detail with execution against tight timelines
+You are passionate about our grassroots patient-centric mission to improve healthcare through technology
+You are an ideal candidate if you also have experience:
+Consulting in the life sciences
+Working with longitudinal EMR data",5.0,"PicnicHealth
+5.0","San Francisco, CA","San Francisco, CA",1 to 50 employees,2014,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1

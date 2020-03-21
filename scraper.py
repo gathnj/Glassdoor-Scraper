@@ -31,6 +31,11 @@ def get_jobs(keyword, num_jobs, verbose):
     
     
     #Initializing the webdriver
+    path_to_extension = r'C:\Users\YOUR_USER_NAME\Desktop\1.9.0_0'
+  #  chrome_options = Options()
+  #  chrome_options.add_argument('load-extension=' + path_to_extension)
+
+
     options = webdriver.ChromeOptions()
     
     #Uncomment the line below if you'd like to scrape without a new Chrome window every time.
