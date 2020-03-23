@@ -2,40 +2,26 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.action_chains import ActionChains
+from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
+from selenium.webdriver.support import expected_conditions as ExpectedConditions
+from selenium.webdriver.common.by import By
+import time
 from time import sleep
 from helper import search_jobs
 from helper import read_listings
-from selenium.webdriver.support import expected_conditions as ExpectedConditions
-from selenium.webdriver.common.by import By
-
-#import random
-#import pickle 
-
-
-
-
-from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
-from selenium import webdriver
-import time
 import pandas as pd
-
 
 
 #from selenium.webdriver.common.action_chains import ActionChains #(https://stackoverflow.com/questions/55571838/error-message-element-not-interactable-selenium-webdriver)
 
 
 
-def get_jobs(keyword, num_jobs, verbose):
+def get_jobs(search_term, num_jobs, verbose):
     
     '''Gathers jobs as a dataframe, scraped from Glassdoor'''
     
     
     #Initializing the webdriver
-    path_to_extension = r'C:\Users\YOUR_USER_NAME\Desktop\1.9.0_0'
-  #  chrome_options = Options()
-  #  chrome_options.add_argument('load-extension=' + path_to_extension)
-
-
     options = webdriver.ChromeOptions()
     
     #Uncomment the line below if you'd like to scrape without a new Chrome window every time.
@@ -45,7 +31,7 @@ def get_jobs(keyword, num_jobs, verbose):
     driver = webdriver.Chrome(executable_path="D:\\Users\\H-2\\Documents\\GitHub\\Glassdoor_Scraping\\chromedriver", options=options)
     driver.set_window_size(1120, 1000)
 
-    url = 'https://www.glassdoor.com/Job/jobs.htm?sc.keyword="' + keyword + '"&locT=C&locId=1147401&locKeyword=San%20Francisco,%20CA&jobType=all&fromAge=-1&minSalary=0&includeNoSalaryJobs=true&radius=100&cityId=-1&minRating=0.0&industryId=-1&sgocId=-1&seniorityType=all&companyId=-1&employerSizes=0&applicationType=0&remoteWorkType=0'
+    url = 'https://www.glassdoor.com/Job/jobs.htm?sc.keyword="' + search_term + '"&locT=C&locId=1147401&locKeyword=San%20Francisco,%20CA&jobType=all&fromAge=-1&minSalary=0&includeNoSalaryJobs=true&radius=100&cityId=-1&minRating=0.0&industryId=-1&sgocId=-1&seniorityType=all&companyId=-1&employerSizes=0&applicationType=0&remoteWorkType=0'
     user = "joemanjoe696@gmail.com" #user email
     passwd = "n368#m89" #user password
 
@@ -83,23 +69,6 @@ def get_jobs(keyword, num_jobs, verbose):
         ##line below is not always necessary. use when popup appears
         #driver.find_element_by_xpath("//path[@id='prefix__icon-close-1']").click()
 
-#<path id="prefix__icon-close-1" d="M13.34 12l5.38-5.38a.95.95 0 00-1.34-1.34L12 10.66 6.62 5.28a.95.95 0 00-1.34 1.34L10.66 12l-5.38 5.38a.95.95 0 001.34 1.34L12 13.34l5.38 5.38a.95.95 0 001.34-1.34z"></path>
-
-
-      #  Test for the "Sign Up" prompt and get rid of it.
-      #  try:
-         #   driver.find_element_by_id("prefix__icon-close-1").click()
-
-       # except ElementClickInterceptedException:
-        #    pass
-
-        #time.sleep(.1)
-
-     #   try:
-      #      driver.find_element_by_id("ModalStyle__xBtn___29PT9").click()  #clicking to the X.
-       # except NoSuchElementException:
-        #    pass
-
         
         #Going through each job in this page
         #job_buttons = driver.find_elements_by_xpath("//li[@class='jl']").click()
@@ -111,16 +80,13 @@ def get_jobs(keyword, num_jobs, verbose):
             if len(jobs) >= num_jobs:
                 break
 
-            #driver.find_element_by_xpath("//path[@id='prefix__icon-close-1']").click()
+            try:
+                job_button.click()
 
-            job_button.click() 
+            except (ElementClickInterceptedException):
+                job_button.click()
 
-           # wait = WebDriverWait(driver, 15);
-
-            #wait.until(ExpectedConditions.visibility_of_element_located(job_button));
-           # wait3 = WebDriverWait(driver, 10);
-            #wait3.until(ExpectedConditions.invisibility_of_element_located(By.XPATH("ele_to_inv")));
-            time.sleep(20)
+            time.sleep(3)
             collected_successfully = False
             
             while not collected_successfully:
@@ -154,15 +120,10 @@ def get_jobs(keyword, num_jobs, verbose):
 
             #Going to the Company tab...
             #clicking on this:
-            #<div class="tab" data-tab-type="overview"><span>Company</span></div>
             try:
                 driver.find_element_by_xpath('.//div[@class="tab" and @data-tab-type="overview"]').click()
 
                 try:
-                    #<div class="infoEntity">
-                    #    <label>Headquarters</label>
-                    #    <span class="value">San Francisco, CA</span>
-                    #</div>
                     headquarters = driver.find_element_by_xpath('.//div[@class="infoEntity"]//label[text()="Headquarters"]//following-sibling::*').text
                 except NoSuchElementException:
                     headquarters = -1
@@ -249,7 +210,7 @@ def get_jobs(keyword, num_jobs, verbose):
 
     return pd.DataFrame(jobs)  #This line converts the dictionary object into a pandas DataFrame.
 
-df = get_jobs("data scientist", 15, True)
-df.to_csv('data_science_jobs.csv') 
+df = get_jobs("data scientist",800, True)
+df.to_csv('data_science_jobs_latest.csv') 
 
 #print(df)
