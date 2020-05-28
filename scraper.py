@@ -32,8 +32,8 @@ def get_jobs(search_term, num_jobs, verbose):
     driver.set_window_size(1120, 1000)
 
     url = 'https://www.glassdoor.com/Job/jobs.htm?sc.keyword="' + search_term + '"&locT=C&locId=1147401&locKeyword=San%20Francisco,%20CA&jobType=all&fromAge=-1&minSalary=0&includeNoSalaryJobs=true&radius=100&cityId=-1&minRating=0.0&industryId=-1&sgocId=-1&seniorityType=all&companyId=-1&employerSizes=0&applicationType=0&remoteWorkType=0'
-    user = "joemanjoe696@gmail.com" #user email
-    passwd = "n368#m89" #user password
+    user = "# insert user email"
+    passwd = "# insert user password "
 
 
 
